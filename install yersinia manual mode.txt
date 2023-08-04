@@ -1,7 +1,7 @@
 -----------------------------------------------------
 Install Yersinia MANUALLY SHEEEEEEEET
 @kali linux terminal
-  cd Downloads/
+  cd Downloads
   git clone https://github.com/tomac/yersinia
   cd yersinia
   sudo apt update
