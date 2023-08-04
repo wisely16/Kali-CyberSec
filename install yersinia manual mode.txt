@@ -2,7 +2,8 @@
 Install Yersinia MANUALLY SHEEEEEEEET
 @kali linux terminal
   cd Downloads/
-  https://github.com/tomac/yersinia
+  git clone https://github.com/tomac/yersinia
+  cd yersinia
   sudo apt update
   sudo apt-install libcap-dev libnet-dev libgtk2.0-dev
   ./autogen.sh
